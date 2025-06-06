@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Disk HDD (H)\\netPractice\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E344BB6D-A471-416D-B449-3059D85CF7CC}|ORM\\ORM.csproj|f:\\disk hdd (h)\\netpractice\\assignment3\\orm\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E344BB6D-A471-416D-B449-3059D85CF7CC}|ORM\\ORM.csproj|solutionrelative:orm\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E344BB6D-A471-416D-B449-3059D85CF7CC}|ORM\\ORM.csproj|f:\\disk hdd (h)\\netpractice\\assignment3\\orm\\sqlquery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E344BB6D-A471-416D-B449-3059D85CF7CC}|ORM\\ORM.csproj|solutionrelative:orm\\sqlquery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD290CF0-E565-4F46-9790-53944B1F9319}|PoJoLib\\EntityLib.csproj|f:\\disk hdd (h)\\netpractice\\assignment3\\pojolib\\pocos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD290CF0-E565-4F46-9790-53944B1F9319}|PoJoLib\\EntityLib.csproj|solutionrelative:pojolib\\pocos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22ADC685-11D1-4D66-9095-AD424E84E4D9}|AttributeLib\\AttributeLib.csproj|f:\\disk hdd (h)\\netpractice\\assignment3\\attributelib\\attributelib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22ADC685-11D1-4D66-9095-AD424E84E4D9}|AttributeLib\\AttributeLib.csproj|solutionrelative:attributelib\\attributelib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E344BB6D-A471-416D-B449-3059D85CF7CC}|ORM\\ORM.csproj|f:\\disk hdd (h)\\netpractice\\assignment3\\orm\\sqlquery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{E344BB6D-A471-416D-B449-3059D85CF7CC}|ORM\\ORM.csproj|solutionrelative:orm\\sqlquery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sqlQuery.sql ",
+              "DocumentMoniker": "F:\\Disk HDD (H)\\netPractice\\Assignment3\\ORM\\sqlQuery.sql",
+              "RelativeDocumentMoniker": "ORM\\sqlQuery.sql",
+              "ToolTip": "F:\\Disk HDD (H)\\netPractice\\Assignment3\\ORM\\sqlQuery.sql",
+              "RelativeToolTip": "ORM\\sqlQuery.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-05T16:59:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pocos.cs",
+              "DocumentMoniker": "F:\\Disk HDD (H)\\netPractice\\Assignment3\\PoJoLib\\Pocos.cs",
+              "RelativeDocumentMoniker": "PoJoLib\\Pocos.cs",
+              "ToolTip": "F:\\Disk HDD (H)\\netPractice\\Assignment3\\PoJoLib\\Pocos.cs",
+              "RelativeToolTip": "PoJoLib\\Pocos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:21:16.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttributeLib.cs",
+              "DocumentMoniker": "F:\\Disk HDD (H)\\netPractice\\Assignment3\\AttributeLib\\AttributeLib.cs",
+              "RelativeDocumentMoniker": "AttributeLib\\AttributeLib.cs",
+              "ToolTip": "F:\\Disk HDD (H)\\netPractice\\Assignment3\\AttributeLib\\AttributeLib.cs",
+              "RelativeToolTip": "AttributeLib\\AttributeLib.cs",
+              "ViewState": "AgIAABYAAAAANDMzMzMDwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:20:58.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "F:\\Disk HDD (H)\\netPractice\\Assignment3\\ORM\\Test.cs",
+              "RelativeDocumentMoniker": "ORM\\Test.cs",
+              "ToolTip": "F:\\Disk HDD (H)\\netPractice\\Assignment3\\ORM\\Test.cs",
+              "RelativeToolTip": "ORM\\Test.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:20:20.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
